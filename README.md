@@ -17,6 +17,7 @@ Wij gaan een online platform maken, waarbij er twee soorten functies zijn: een i
 * Tijdlijn gesloten groepen
 * Event aanmaken
 * Home event
+* event overzicht
 * Groep aanmaken
 * Home groep
 * Leden aan gesloten groep toevoegen
